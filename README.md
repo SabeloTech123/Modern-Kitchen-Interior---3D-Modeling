@@ -21,4 +21,4 @@ A compact living room scene built to study warm ambient lighting, upholstery tex
 - `renders/` — final and in-progress render images
 ## Contact
  
-Sabelo Maseko — [add your email or portfolio link here]
+Sabelo Maseko — (https://sabelotech123.github.io/portfolio/)
