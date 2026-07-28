@@ -6,8 +6,8 @@ A compact living room scene built to study warm ambient lighting, upholstery tex
  
 ## Process
  
-![Kitchen View](Renders1/kitchen view.png)
-![Kitchen Wireframe View](Renders1/kitchen wireframe view.png)
+![Kitchen View](Renders1/kitchen-view.png)
+![Kitchen Wireframe View](Renders1/kitchen-wireframe-view.png)
 ![Kitchen No Render](Renders1/kitchen-no-render.png)
  
 ## Details
