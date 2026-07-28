@@ -2,13 +2,13 @@
  
 A compact living room scene built to study warm ambient lighting, upholstery texturing, and material layering across wood, glass, and fabric.
  
-![Final Render](renders/final-render.png)
+![Kitchen Render Cycles](Renders1/kitchen-render-cycles.png)
  
 ## Process
  
-<!-- Add wireframe, clay-render, or texturing stage images below as you save them -->
-<!-- ![Wireframe](renders/wireframe.png) -->
-<!-- ![Clay Render](renders/clay-render.png) -->
+![Kitchen View](Renders1/kitchen view.png)
+![Kitchen Wireframe View](Renders1/kitchen wireframe view.png)
+![Kitchen No Render](Renders1/kitchen-no-render.png)
  
 ## Details
  
